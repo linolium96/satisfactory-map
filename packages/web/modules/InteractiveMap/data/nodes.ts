@@ -3430,5 +3430,15 @@ export const nodes: Node[] = [
     purity: "pure",
     type: "copper",
     exploited: false
+  },
+  {
+    x: -5.293,
+    y: 92.075,
+    z: 22.756,
+    originId: "PL_RN_1606",
+    obstructed: false,
+    purity: "pure",
+    type: "bauxite",
+    exploited: false
   }
 ];
